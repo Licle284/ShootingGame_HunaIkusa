@@ -16,7 +16,7 @@ ChrBulletStraight::~ChrBulletStraight()
 {
 }
 
-// ’¼ü‰^“®‚ğs‚¤B
+// ç›´ç·šé‹å‹•ã‚’è¡Œã†
 void ChrBulletStraight::update() {
 	px += vx;
 	py += vy;
