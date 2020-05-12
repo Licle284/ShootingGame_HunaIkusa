@@ -15,7 +15,7 @@ ChrBulletNormal::~ChrBulletNormal()
 {
 }
 
-// •ú•¨‰^“®‚ğ‚³‚¹‚é
+// æ”¾ç‰©é‹å‹•ã‚’ã•ã›ã‚‹
 void ChrBulletNormal::update() {
 	px += vx;
 	vy += gravity * delta_time;
