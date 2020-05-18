@@ -84,5 +84,7 @@ https://www.vcssl.org/ja-jp/code/archive/0001/1100-string-wave/  2020/2/19
 
 
 
+libjpeg　Copyright (C) 1991-2013, Thomas G. Lane, Guido Vollbeding.
 
-
+libpng　Copyright (C) 2004, 2006-2012 Glenn Randers-Pehrson.
+zlib　Copyright (C) 1995-2012 Jean-loup Gailly and Mark Adler.
